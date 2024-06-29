@@ -1,4 +1,4 @@
-this peoject is the code of my protfolio , i'm using react js and css 
+this project is the code of my protfolio , i'm using react js and css 
 i'm using vite for creating react
 
 run 
